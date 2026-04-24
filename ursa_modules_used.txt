@@ -1,0 +1,26 @@
+documented file utilities found on Ursa
+
+nco - module
+	nco/5.2.4
+
+cdo - module spider
+	cdo/2.4.2
+	eccodes/2.34.0
+	
+ncview - module
+	ncview/2.1.9
+	netcdf-c/4.9.2
+	ssh with -X
+	
+ncdump - built in
+
+wgrib2 - not found
+
+grib_ls - module
+	grib-util/1.5.0
+	eccodes/2.34.0
+
+grib_dump - module
+	grib-util/1.5.0
+	eccodes/2.34.0
+	
